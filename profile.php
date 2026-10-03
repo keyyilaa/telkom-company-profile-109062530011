@@ -14,6 +14,12 @@ terpadu.</p>
 <h2>Tujuan proyek</h2>
 <p>Proyek menampilkan profil, program studi, berita, serta formulir kontak. Data program studi dan berita dibaca dari
 database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
+<h2>Fokus Pembelajaran</h2>
+<ul>
+<li>Memahami alur Git: working directory, staging area, dan repository.</li>
+<li>Membangun halaman web dinamis dengan PHP native dan MySQL.</li>
+<li>Berkolaborasi memakai branch, merge, dan GitHub.</li>
+</ul>
 <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div>
 </div>
 </section>
