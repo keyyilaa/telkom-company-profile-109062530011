@@ -4,4 +4,5 @@ Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
 Perubahan ini dibuat dari simulasi Laptop B.
 Tes perubahan 
 
-perubahan dari A untuk tes push ditolak
+perubahan dari laptop a&b untuk tes push ditolak
+
