@@ -6,4 +6,3 @@ Tes perubahan
 
 perubahan dari laptop a&b untuk tes push ditolak
 
-tes revert
